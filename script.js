@@ -17,7 +17,7 @@ function setAttributes(element, attributes) {
 
 // Unsplash API
 const count = 2;
-const apiKey = 'yaxjDHYjv14s3vQ74yA7i2ngxTddxspq-7HTkb9s1_E';
+const apiKey = '';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 
